@@ -3,6 +3,7 @@
 | Día | Fecha | Progreso en Matemáticas | Progreso en C | Estado |
 |-----|-------|-------------------------|---------------|--------|
 | Dia 0 | 19-06-2026 | Repositorio Cmáticas creado | Estructura de carpetas creada | ⚙️ |
+| Dia 1 | 22-06-2026 | Leida la introducción del libro 1 | Leida la introducción del libro 1 | 📖 |
 
 ---
 
@@ -26,3 +27,4 @@
 | Fecha | Logro conseguido | Descripción | Dificultad |
 |:---:|:---:|:---:|:---:|
 | 19-06-2026 | El día de iniciación | El primero es gratis | ⚪ Muy fácil |
+
