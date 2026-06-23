@@ -4,6 +4,7 @@
 |-----|-------|-------------------------|---------------|--------|
 | Dia 0 | 19-06-2026 | Repositorio Cmáticas creado | Estructura de carpetas creada | ⚙️ |
 | Dia 1 | 22-06-2026 | Leida la introducción del libro 1 | Leida la introducción del libro 1 | 📖 |
+| Día 2 | 23-06-2026 | Creados los apuntes del descriptor y la teoría de conjuntos | Implementado y probado lo visto hoy de matematicas en C (de manera grosa) | ✍️ |
 
 ---
 
