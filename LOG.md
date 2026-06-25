@@ -6,6 +6,7 @@
 | Dia 1 | 22-06-2026 | Leida la introducción del libro 1 | Leida la introducción del libro 1 | 📖 |
 | Día 2 | 23-06-2026 | Creados los apuntes del descriptor y la teoría de conjuntos | Implementado y probado lo visto hoy de matematicas en C (de manera grosa) | ✍️ |
 | Día 3 | 24-06-2026 | Leída y resumida la sección 1.2 (Lenguajes Formales) y 1.3 (Expresiones, términos y fórmulas) | Sin código nuevo, solo apuntes | 📖 |
+| Día 4 | 25-06-2026 | Leída y resumida la sección 1.4 (Variables libres y ligadas) y 1.5 (Sustitución de variables) | Sin código nuevo, solo apuntes | 📖 |
 
 ---
 

@@ -1,4 +1,3 @@
-
 # cmaticas
 
 ## ¿Por qué este proyecto?
@@ -20,20 +19,22 @@ Este es mi espacio para aprender matemáticas y C desde los cimientos.
 | Carpeta | Contenido |
 |---------|-----------|
 | `libros/` | Material original (PDFs de referencia). |
-| `apuntes/` | Mis resúmenes, esquemas y pseudocódigo. |
-| `codigo/` | Código fuente en C. |
+| `apuntes/` | Mis resúmenes, esquemas y pseudocódigo. Organizados por capítulos. |
+| `codigo/` | Código fuente en C. Organizado por capítulos. |
 
 ---
 
 ## Roadmap
 
-| Fase | Módulo | Archivo | Estado |
-|:---:|---------|---------|--------|
-| 0 | Lógica proposicional | `propositional.c` | ⏳ Pendiente |
+| Fase | Módulo | Contenido | Estado |
+|:---:|---------|-----------|--------|
+| 0 | **Lógica de primer orden** | Conectores, cuantificadores, funtores, descriptor, variables y sustitución (Cap. 1 de Ivorra). | ✅ Teoría leída y apuntes hechos. Código base implementado en `codigo/Libro_1/Capitulo-1_Lenguajes-formales-de-primer-orden/`. |
+| 1 | **Teoría de conjuntos** | Unión, intersección, diferencia, complemento, subconjuntos (Cap. 2 de Ivorra). | ⏳ Pendiente |
+| 2 | **Relaciones y funciones** | Producto cartesiano, relaciones, funciones (Cap. 3 de Ivorra). | ⏳ Pendiente |
+| 3 | **Aritmética** | Números naturales, inducción, recursión (Cap. 4 de Ivorra). | ⏳ Pendiente |
 
 ---
 
 ## Progreso
 
 Llevo un registro detallado en [`LOG.md`](LOG.md).
-
