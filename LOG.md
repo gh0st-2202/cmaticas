@@ -7,6 +7,7 @@
 | Día 2 | 23-06-2026 | Creados los apuntes del descriptor y la teoría de conjuntos | Implementado y probado lo visto hoy de matematicas en C (de manera grosa) | ✍️ |
 | Día 3 | 24-06-2026 | Leída y resumida la sección 1.2 (Lenguajes Formales) y 1.3 (Expresiones, términos y fórmulas) | Sin código nuevo, solo apuntes | 📖 |
 | Día 4 | 25-06-2026 | Leída y resumida la sección 1.4 (Variables libres y ligadas) y 1.5 (Sustitución de variables) | Sin código nuevo, solo apuntes | 📖 |
+| Día 5 | 27-06-2026 | Repasado todo lo visto anteriormente. Resumido 1.6 (Conclusiones finales) | Leido y entendido el Tema 2 | ✅ |
 
 ---
 
@@ -30,4 +31,5 @@
 | Fecha | Logro conseguido | Descripción | Dificultad |
 |:---:|:---:|:---:|:---:|
 | 19-06-2026 | El día de iniciación | El primero es gratis | ⚪ Muy fácil |
+| 27-06-2026 | Capítulo I completado y comprendido | Lectura, apuntes, código base y comprensión profunda de las reglas de los lenguajes formales. | 🟢 Fácil |
 
