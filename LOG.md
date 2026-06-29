@@ -8,6 +8,7 @@
 | Día 3 | 24-06-2026 | Leída y resumida la sección 1.2 (Lenguajes Formales) y 1.3 (Expresiones, términos y fórmulas) | Sin código nuevo, solo apuntes | 📖 |
 | Día 4 | 25-06-2026 | Leída y resumida la sección 1.4 (Variables libres y ligadas) y 1.5 (Sustitución de variables) | Sin código nuevo, solo apuntes | 📖 |
 | Día 5 | 27-06-2026 | Repasado todo lo visto anteriormente. Resumido 1.6 (Conclusiones finales) | Leido y entendido el Tema 2 | ✅ |
+| Día 6 | 29-06-2026 | Leida y resumida la seccion 2.1 (El cálculo deductivo de primer orden) y refactorizados los apuntes anteriores | Sin código nuevo, solo apuntes | 📖 |
 
 ---
 
