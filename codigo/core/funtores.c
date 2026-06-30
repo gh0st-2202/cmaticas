@@ -1,4 +1,4 @@
-#include "1.1.3_Funtores.h"
+#include "funtores.h"
 
 int funtor_suma(int a, int b) {
     return a + b;

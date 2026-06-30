@@ -7,7 +7,7 @@
  * más clara y sólida.
  */
 
-#include "1.1.1_Conectores_logicos.h"
+#include "logica.h"
 #include <stdio.h>
 
 // Invierte el valor de verdad

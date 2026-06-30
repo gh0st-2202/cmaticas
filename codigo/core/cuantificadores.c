@@ -1,5 +1,5 @@
-#include "1.1.1_Conectores_logicos.h" 
-#include "1.1.2_Cuantificadores.h"
+#include "logica.h" 
+#include "cuantificadores.h"
 
 /*
  * Para un conjunto c (array) se establece que

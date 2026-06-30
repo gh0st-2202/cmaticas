@@ -1,6 +1,6 @@
 #include <stdio.h>
-#include "Libro_1/Capitulo-1_Lenguajes-formales-de-primer-orden/1.1.2_Cuantificadores.h"
-#include "Libro_1/Capitulo-1_Lenguajes-formales-de-primer-orden/1.1.4_Descriptor.h"
+#include "core/cuantificadores.h"
+#include "core/descriptor.h"
 
 // Predicados de ejemplo
 bool es_par(int x) { return x % 2 == 0; }

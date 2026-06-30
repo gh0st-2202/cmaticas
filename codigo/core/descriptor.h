@@ -2,7 +2,7 @@
 #define DESCRIPTOR_H
 
 #include <stdbool.h>
-#include "1.1.2_Cuantificadores.h"
+#include "cuantificadores.h"
 
 // Valor que devolvemos cuando la descripción es impropia
 #define DESCRIPCION_IMPROPIA 0

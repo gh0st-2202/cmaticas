@@ -7,6 +7,6 @@ Aquí está todo el código fuente de **cmaticas**, escrito en C.
 Desde esta carpeta:
 
 ```bash
-gcc -Wall -Wextra -g -ILibro_1 main.c Libro_1/*/*.c -o cmaticas
+gcc -Wall -Wextra -g -Icmaticas main.c */*.c -o cmaticas
 ./cmaticas
 ```
