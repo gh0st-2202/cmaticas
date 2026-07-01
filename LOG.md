@@ -10,6 +10,7 @@
 | Día 5 | 27-06-2026 | Repasado todo lo visto anteriormente. Resumido 1.6 (Conclusiones finales) | Leido y entendido el Tema 2 | ✅ |
 | Día 6 | 29-06-2026 | Leida y resumida la seccion 2.1 (El cálculo deductivo de primer orden) y refactorizados los apuntes anteriores | Sin código nuevo, solo apuntes | 📖 |
 | Día 7 | 30-06-2026 | Leida y resumida la seccion 2.2 (Reglas derivadas de inferencia) | Nueva arquitectura para el codigo | 📖 |
+| Día 8 | 01-07-2026 | Leida y resumida la seccion 2.3 (Técnicas de deducción) | Creada la configuración para leer lenguajes lógicos | ✍️ |
 
 ---
 
