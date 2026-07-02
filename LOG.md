@@ -11,6 +11,7 @@
 | Día 6 | 29-06-2026 | Leida y resumida la seccion 2.1 (El cálculo deductivo de primer orden) y refactorizados los apuntes anteriores | Sin código nuevo, solo apuntes | 📖 |
 | Día 7 | 30-06-2026 | Leida y resumida la seccion 2.2 (Reglas derivadas de inferencia) | Nueva arquitectura para el codigo | 📖 |
 | Día 8 | 01-07-2026 | Leida y resumida la seccion 2.3 (Técnicas de deducción) | Creada la configuración para leer lenguajes lógicos | ✍️ |
+| Día 9 | 02-07-2026 | Leida y resumida la seccion 2.4 (Teorías axiomáticas) | Sin código nuevo, solo apuntes | 📖 |
 
 ---
 
