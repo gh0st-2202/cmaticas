@@ -12,6 +12,17 @@
 | Día 7 | 30-06-2026 | Leida y resumida la seccion 2.2 (Reglas derivadas de inferencia) | Nueva arquitectura para el codigo | 📖 |
 | Día 8 | 01-07-2026 | Leida y resumida la seccion 2.3 (Técnicas de deducción) | Creada la configuración para leer lenguajes lógicos | ✍️ |
 | Día 9 | 02-07-2026 | Leida y resumida la seccion 2.4 (Teorías axiomáticas) | Sin código nuevo, solo apuntes | 📖 |
+| Día 10 | 03-07-2026 | Leida y resumida las secciones 2.5 (Descriptores), 2.6 (Forma prenexa) y 2.7 (Conclusiones finales) | Creados esqueletos de parser y arbol (no terminados) | 🔥 |
+
+---
+
+### Resumen de logros
+
+| Fecha | Logro conseguido | Descripción | Dificultad |
+|:---:|:---:|:---:|:---:|
+| 19-06-2026 | El día de iniciación | El primero es gratis | ⚪ Muy fácil |
+| 27-06-2026 | Capítulo I completado y comprendido | Lectura, apuntes, código base y comprensión profunda de las reglas de los lenguajes formales. | 🟢 Fácil |
+| 03-07-2026 | Capitulo II completado y comprendido | Lectura, comprensión y apuntes de los sistemas deductivos formales | 🔵 Moderado |
 
 ---
 
@@ -30,10 +41,15 @@
 
 ---
 
-### Resumen de logros
+### Tabla de dificultades
 
-| Fecha | Logro conseguido | Descripción | Dificultad |
-|:---:|:---:|:---:|:---:|
-| 19-06-2026 | El día de iniciación | El primero es gratis | ⚪ Muy fácil |
-| 27-06-2026 | Capítulo I completado y comprendido | Lectura, apuntes, código base y comprensión profunda de las reglas de los lenguajes formales. | 🟢 Fácil |
+| Color | Dificultad | Sinónimo que la define |
+|:---:|:---|:---|
+| ⚪ | **Muy fácil** | Trivial, básico |
+| 🟢 | **Fácil** | Simple, accesible |
+| 🔵 | **Moderado** | Razonable, llevadero |
+| 🟣 | **Medio** | Intermedio, normal |
+| 🟠 | **Difícil** | Complejo, arduo |
+| 🔴 | **Muy difícil** | Agotador, extenuante |
+| ⚫ | **Extremo** | Máximo, insuperable |
 
