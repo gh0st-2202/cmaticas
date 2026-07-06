@@ -2,8 +2,8 @@
 
 | Día | Fecha | Progreso en Matemáticas | Progreso en C | Estado |
 |-----|-------|-------------------------|---------------|--------|
-| Dia 0 | 19-06-2026 | Repositorio Cmáticas creado | Estructura de carpetas creada | ⚙️ |
-| Dia 1 | 22-06-2026 | Leida la introducción del libro 1 | Leida la introducción del libro 1 | 📖 |
+| Día 0 | 19-06-2026 | Repositorio Cmáticas creado | Estructura de carpetas creada | ⚙️ |
+| Día 1 | 22-06-2026 | Leida la introducción del libro 1 | Leida la introducción del libro 1 | 📖 |
 | Día 2 | 23-06-2026 | Creados los apuntes del descriptor y la teoría de conjuntos | Implementado y probado lo visto hoy de matematicas en C (de manera grosa) | ✍️ |
 | Día 3 | 24-06-2026 | Leída y resumida la sección 1.2 (Lenguajes Formales) y 1.3 (Expresiones, términos y fórmulas) | Sin código nuevo, solo apuntes | 📖 |
 | Día 4 | 25-06-2026 | Leída y resumida la sección 1.4 (Variables libres y ligadas) y 1.5 (Sustitución de variables) | Sin código nuevo, solo apuntes | 📖 |
@@ -13,6 +13,7 @@
 | Día 8 | 01-07-2026 | Leida y resumida la seccion 2.3 (Técnicas de deducción) | Creada la configuración para leer lenguajes lógicos | ✍️ |
 | Día 9 | 02-07-2026 | Leida y resumida la seccion 2.4 (Teorías axiomáticas) | Sin código nuevo, solo apuntes | 📖 |
 | Día 10 | 03-07-2026 | Leida y resumida las secciones 2.5 (Descriptores), 2.6 (Forma prenexa) y 2.7 (Conclusiones finales) | Creados esqueletos de parser y arbol (no terminados) | 🔥 |
+| Día 11 | 06-07-2026 | Leida y resumida la sección 3.1 (Conceptos básicos) | Sin código nuevo, solo apuntes | 📖 |
 
 ---
 
