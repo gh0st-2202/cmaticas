@@ -14,6 +14,7 @@
 | Día 9 | 02-07-2026 | Leida y resumida la seccion 2.4 (Teorías axiomáticas) | Sin código nuevo, solo apuntes | 📖 |
 | Día 10 | 03-07-2026 | Leida y resumida las secciones 2.5 (Descriptores), 2.6 (Forma prenexa) y 2.7 (Conclusiones finales) | Creados esqueletos de parser y arbol (no terminados) | 🔥 |
 | Día 11 | 06-07-2026 | Leida y resumida la sección 3.1 (Conceptos básicos) | Sin código nuevo, solo apuntes | 📖 |
+| Día 12 | 07-07-2026 | Leida y resumida la sección 3.2 (Verdad y validez lógica) | Sin código nuevo, solo apuntes | 📖 |
 
 ---
 
