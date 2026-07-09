@@ -16,6 +16,7 @@
 | Día 11 | 06-07-2026 | Leida y resumida la sección 3.1 (Conceptos básicos) | Sin código nuevo, solo apuntes | 📖 |
 | Día 12 | 07-07-2026 | Leida y resumida la sección 3.2 (Verdad y validez lógica) | Sin código nuevo, solo apuntes | 📖 |
 | Día 13 | 08-07-2026 | Leida y resumida la sección 3.3 (Consistencia) | Sin código nuevo, solo apuntes | 📖 |
+| Día 14 | 09-07-2026 | Leida y resumida la sección 4.1 (Completitud semantica) | Sin código nuevo, solo apuntes | 📖 |
 
 ---
 
@@ -24,8 +25,9 @@
 | Fecha | Logro conseguido | Descripción | Dificultad |
 |:---:|:---:|:---:|:---:|
 | 19-06-2026 | El día de iniciación | El primero es gratis | ⚪ Muy fácil |
-| 27-06-2026 | Capítulo I completado y comprendido | Lectura, apuntes, código base y comprensión profunda de las reglas de los lenguajes formales. | 🟢 Fácil |
-| 03-07-2026 | Capitulo II completado y comprendido | Lectura, comprensión y apuntes de los sistemas deductivos formales | 🔵 Moderado |
+| 27-06-2026 | Capítulo I completado | Lectura, apuntes, código base y comprensión profunda de las reglas de los lenguajes formales. | 🟢 Fácil |
+| 03-07-2026 | Capitulo II completado | Lectura, comprensión y apuntes de los sistemas deductivos formales | 🔵 Moderado |
+| 08-07-2026 | Capitulo III completado | Lectura, comprensión y apuntes de los sistemas deductivos formales | 🟢 Fácil |
 
 ---
 
