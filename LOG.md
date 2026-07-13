@@ -18,6 +18,8 @@
 | Día 13 | 08-07-2026 | Leida y resumida la sección 3.3 (Consistencia) | Sin código nuevo, solo apuntes | 📖 |
 | Día 14 | 09-07-2026 | Leida y resumida la sección 4.1 (Completitud semantica) | Sin código nuevo, solo apuntes | 📖 |
 | Día 15 | 10-07-2026 | Leida y resumida la sección 4.2 (La prueba del teorema de competitud) | Sin código nuevo, solo apuntes | 📖 |
+| Día 16 | 13-07-2026 | Leida y resumida la sección 4.3 (Consecuencias del teorema de competitud) | Sin código nuevo, solo apuntes | 📖 |
+
 
 ---
 
