@@ -20,6 +20,7 @@
 | Día 15 | 10-07-2026 | Leida y resumida la sección 4.2 (La prueba del teorema de competitud) | Sin código nuevo, solo apuntes | 📖 |
 | Día 16 | 13-07-2026 | Leida y resumida la sección 4.3 (Consecuencias del teorema de competitud) | Sin código nuevo, solo apuntes | 📖 |
 | Día 17 | 14-07-2026 | Leida y resumida la sección 4.4 (Consideraciones finales) | Sin código nuevo, solo apuntes | 📖 |
+| Día 18 | 15-07-2026 | Repasados los conceptos dados en este capitulo | Sin código nuevo, solo apuntes | 📖 |
 
 
 ---
@@ -32,7 +33,7 @@
 | 27-06-2026 | Capítulo I completado | Lectura, apuntes, código base y comprensión profunda de las reglas de los lenguajes formales. | 🟢 Fácil |
 | 03-07-2026 | Capitulo II completado | Lectura, comprensión y apuntes de los sistemas deductivos formales | 🔵 Moderado |
 | 08-07-2026 | Capitulo III completado | Lectura, comprensión y apuntes de los sistemas deductivos formales | 🟢 Fácil |
-
+| 15-07-2026 | Capitulo IV completado | Lectura, comprensión y apuntes de los sistemas deductivos formales | 🟣 Medio |
 ---
 
 ### Leyenda de estados
