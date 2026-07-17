@@ -22,6 +22,7 @@
 | Día 17 | 14-07-2026 | Leida y resumida la sección 4.4 (Consideraciones finales) | Sin código nuevo, solo apuntes | 📖 |
 | Día 18 | 15-07-2026 | Repasados los conceptos dados en este capitulo | Sin código nuevo, solo apuntes | 📖 |
 | Día 19 | 16-07-2026 | Leida y resumida la sección 5.1 (Funciones recursivas) | Sin código nuevo, solo apuntes | 📖 |
+| Día 20 | 17-07-2026 | Leida y resumida la sección 5.2 (Relaciones recursivas) | Sin código nuevo, solo apuntes | 📖 |
 
 
 ---
