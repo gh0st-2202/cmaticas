@@ -26,6 +26,7 @@
 | Día 21 | 20-07-2026 | Leida y resumida la sección 5.3 (Conjuntos recursivos) y 5.4 (Números de Gödel) | - | 📖 |
 | Día 22 | 21-07-2026 | Leida y resumida la sección 5.5 (Funciones parciales) y 5.6 (Máquinas de Turing) | - | 📖 |
 | Día 23 | 22-07-2026 | Leida y resumida la sección 5.7 (La tesis de Church-Turing) y 5.8 (Consideraciones finales) | - | 📖 |
+| Día 24 | 23-07-2026 | Leida y resumida la sección 6.1 (Definicion y propiedades básicas) | - | 📖 |
 
 ---
 
@@ -38,6 +39,7 @@
 | 03-07-2026 | Capitulo II completado | Lectura, comprensión y apuntes | 🔵 Moderado |
 | 08-07-2026 | Capitulo III completado | Lectura, comprensión y apuntes | 🟢 Fácil |
 | 15-07-2026 | Capitulo IV completado | Lectura, comprensión y apuntes | 🟣 Medio |
+| 23-07-2026 | Capitulo V completado | Lectura, comprensión y apuntes | 🔵 Moderado |
 
 ---
 
