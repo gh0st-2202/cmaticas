@@ -27,6 +27,7 @@
 | Día 22 | 21-07-2026 | Leida y resumida la sección 5.5 (Funciones parciales) y 5.6 (Máquinas de Turing) | - | 📖 |
 | Día 23 | 22-07-2026 | Leida y resumida la sección 5.7 (La tesis de Church-Turing) y 5.8 (Consideraciones finales) | - | 📖 |
 | Día 24 | 23-07-2026 | Leida y resumida la sección 6.1 (Definicion y propiedades básicas) | - | 📖 |
+| Día 25 | 24-07-2026 | Tratando de comprender la sección 6.2 | - | 📖 |
 
 ---
 
