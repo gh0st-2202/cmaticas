@@ -29,6 +29,7 @@
 | Día 24 | 23-07-2026 | Leida y resumida la sección 6.1 (Definicion y propiedades básicas) | - | 📖 |
 | Día 25 | 24-07-2026 | Tratando de comprender la sección 6.2 | - | 📖 |
 | Día 26 | 27-07-2026 | Leida y resumida la sección 6.2 (Esto se me está quedando grande) | - | 📖 |
+| Día 27 | 30-10-2026 | Publicacion del repositorio | - | ⏸️ |
 
 ---
 

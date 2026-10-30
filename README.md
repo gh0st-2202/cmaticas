@@ -1,5 +1,15 @@
 # cmaticas
 
+## Estado del repositorio
+Archivo de un proyecto de verano (junio–julio de 2026): estudio autodidacta de lógica de primer orden y C desde los cimientos, a los 19 años. Pausado en la sección 6.2, no en desarrollo activo.
+
+- 26 días de estudio, 5 capítulos de lógica completados.
+- 10 días de C: conjuntos, configuración de lectura de lenguajes lógicos y esqueletos de parser y árbol (sin terminar).
+- Rama `primos` como estudio paralelo sobre números primos, con README propio.
+- Detalle diario en [`LOG.md`](LOG.md).
+
+Lo publico porque un proyecto pausado y documentado vale más que uno escondido por no estar acabado.
+
 ## ¿Por qué este proyecto?
 
 Cuando terminé 2º de Bachillerato y entré en DAM, me di cuenta de que no era exactamente lo que buscaba.
